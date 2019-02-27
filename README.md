@@ -13,4 +13,4 @@ RGB colour format and 500px wide x 709px tall. All the graphics are non branded 
 ![Printing Tip 9](https://ultimatebanners.co/wp-content/uploads/printingtip19.jpg)
 ![Printing Tip 10](https://ultimatebanners.co/wp-content/uploads/printingtip20.jpg)
 
-Library Of Open Source graphics producded by https://ultimatebanners.co.
+Library Of Open Source graphics created by https://ultimatebanners.co
